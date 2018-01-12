@@ -1,0 +1,103 @@
+
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿“®‰ýÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ýþöõþÿÿÿÿ
+@squid:S2185"&Remove this silly call to "Math.round"(ƒ‰¢”ûÿÿÿÿ
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(š“)
+;squid:S2185"&Remove this silly call to "Math.round"(“ØŽ¶
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(…Ÿ´¸ûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ü‹Áýÿÿÿÿ
+Xsquid:S1226">Introduce a new variable instead of reusing the parameter "b".(ˆ˜ý‡úÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Š¶ ‰þÿÿÿÿ
+]squid:S1192"HDefine a constant instead of duplicating this literal "False: " 3 times.(á¯¼á
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(™ˆ±¿þÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(›¾ºØÿÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(û¸²éúÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(’ ¬
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(â…Ãþ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(òá±‚
+osquid:S1488"[Immediately return this expression instead of assigning it to the temporary variable "sum".(äÜ{
+Vsquid:S1126"AReplace this if-then-else statement by a single return statement.(¤ŠõÇ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(öôÒ›
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰°„¤ùÿÿÿÿ
+Vsquid:S1126"AReplace this if-then-else statement by a single return statement.(’§ôœ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÎÛˆ—ýÿÿÿÿ
+Ssquid:S1226">Introduce a new variable instead of reusing the parameter "c".(ò‹÷Ó
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ˆÝ¢Ã
+rsquid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(ûŠ¤j
+Xsquid:S1226">Introduce a new variable instead of reusing the parameter "b".(ˆ˜ý‡úÿÿÿÿ
+Xsquid:S1226">Introduce a new variable instead of reusing the parameter "a".(§°»àùÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(”­åú
+[squid:S2184"ACast one of the operands of this division operation to a "float".(ƒ‰¢”ûÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(àÀ²ž
+xsquid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(äº„äþÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(·¥ÝÜþÿÿÿÿ
+Xsquid:S2583"DChange this condition so that it does not always evaluate to "false"(ªÄî
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(§ßŠ‘úÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÎŸ¡ß
+Xsquid:S1226">Introduce a new variable instead of reusing the parameter "a".(§°»àùÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ø·—Ö
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(–ôÜçûÿÿÿÿ
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(™¬•ÿÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ù«õ¥
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹¶ö
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¸ºØúÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(à•Óé
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Æ†Žùÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ËÎäƒ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ì­Ö°úÿÿÿÿ
+Ssquid:S1226">Introduce a new variable instead of reusing the parameter "c".(ò‹÷Ó
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(Õóü
+Ssquid:S1226">Introduce a new variable instead of reusing the parameter "c".(ò‹÷Ó
+^squid:S2583"DChange this condition so that it does not always evaluate to "false"(ÕÂÊ‡ùÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªžäÁ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(á¯¼á
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÒÖÿ±
+\squid:S1192"GDefine a constant instead of duplicating this literal "True: " 9 times.(â…Ãþ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(æ®Ð‘
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Þ››ü
+Xsquid:S1226">Introduce a new variable instead of reusing the parameter "b".(ˆ˜ý‡úÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(œ·×ß
+Xsquid:S1226">Introduce a new variable instead of reusing the parameter "a".(§°»àùÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹îƒÍÿÿÿÿÿ
+[squid:S1126"AReplace this if-then-else statement by a single return statement.(Ó¡¨‹ùÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(µ©÷íúÿÿÿÿ
+Vsquid:S2184"ACast one of the operands of this division operation to a "float".(“ØŽ¶

@@ -1,0 +1,30 @@
+
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(£ÂÜôúÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ò‹ô¼üÿÿÿÿ
+zsquid:S1192"`Define a constant instead of duplicating this literal "The String Date in sentence is:" 4 times.(ò‹ô¼üÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŸŞïÍüÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ò‹ô¼üÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ò‹ô¼üÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(å“¬£
+tsquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(áóè
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(•ûşÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(†°„ıÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(³ë…¨
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ß¬„ãÿÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹úäıÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ò‹ô¼üÿÿÿÿ
+[squid:S1126"AReplace this if-then-else statement by a single return statement.(šü®£üÿÿÿÿ
+Ysquid:S1134"DTake the required action to fix the issue indicated by this comment.(÷Ã“
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿÄô¡ûÿÿÿÿ
+Ysquid:S1134"DTake the required action to fix the issue indicated by this comment.(÷Ã“

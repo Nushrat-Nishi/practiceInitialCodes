@@ -1,0 +1,10 @@
+
+msquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ïó·9
+wsquid:S3008"]Rename this field "MAPKEY_CREDIT_CARD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“­Šâþÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô¥çÏ
+xsquid:S1450"^Remove the "sumOfAllBalance" field and declare it as a local variable in the relevant methods.(ß•‡ªýÿÿÿÿ
+rsquid:S3008"XRename this field "MAPKEY_Bikash" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö€™Õÿÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ôžšàþÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ËÌ¯ýùÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚ÀÌÜúÿÿÿÿ
+psquid:S3008"VRename this field "MAPKEY_BANK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Þ×Ûøÿÿÿÿ

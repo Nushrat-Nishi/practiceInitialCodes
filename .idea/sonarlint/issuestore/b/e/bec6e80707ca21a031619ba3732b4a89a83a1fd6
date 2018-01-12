@@ -1,0 +1,61 @@
+
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(½ÏÇØüÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨ìêÂúÿÿÿÿ
+[squid:S3027"FPut single-quotes around '!' to use the faster "indexOf(char)" method.(ôÿ½¥
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Û˜İªúÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ú¹
+lsquid:S1192"WDefine a constant instead of duplicating this literal "Element 3 at index 2: " 3 times.(ªğÍ×
+Msquid:S1197"8Move the array designator from the variable to the type.(‚õ‚ø
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Õ²Ûø
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(²²ÒÑ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(õ¬ıÍüÿÿÿÿ
+Msquid:S1197"8Move the array designator from the variable to the type.(€äÜÂ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ì…–…
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘Æı
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥’İ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ò›®Ô
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ
+5squid:S2129" Remove this "String" constructor(¥÷öø
+qsquid:S1192"WDefine a constant instead of duplicating this literal "Element 1 at index 0: " 3 times.(ä¡¥…ûÿÿÿÿ
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÍÜ£*
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ü³äûÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªğÍ×
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ
+qsquid:S1192"WDefine a constant instead of duplicating this literal "Element 2 at index 1: " 3 times.(½ÏÇØüÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûÿû»üÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(’¡ğŞ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ
+Rsquid:S1197"8Move the array designator from the variable to the type.(ÔÛÒãøÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ä¡¥…ûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã¡õˆÿÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤‹äüıÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(óîêıúÿÿÿÿ

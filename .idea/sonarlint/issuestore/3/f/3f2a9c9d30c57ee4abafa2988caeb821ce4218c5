@@ -1,0 +1,4 @@
+
+ssquid:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ÕÌßøÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯Òúÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(õ¯É

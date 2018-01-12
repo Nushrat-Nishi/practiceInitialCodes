@@ -1,0 +1,17 @@
+
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Œõšö
+›%squid:RedundantThrowsDeclarationCheck"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ÐÔ®9
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(œ¶Ì¯
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Í†Õ×ÿÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(·Å£­þÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Œõšö
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ýÆŠ¸
+tsquid:S1192"ZDefine a constant instead of duplicating this literal "The sum of the digits is:" 3 times.(Í†Õ×ÿÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿÔ…Ìýÿÿÿÿ

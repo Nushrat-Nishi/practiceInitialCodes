@@ -1,0 +1,69 @@
+
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Š¤Ä
+bsquid:S1192"HDefine a constant instead of duplicating this literal "Mahmood" 3 times.(ÂÿÍ‘ıÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÆÔ¥´ûÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(²¹¯‚
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(³ë…¨
+squid:S1319"xThe type of the "multiNumbers" object should be an interface such as "List" rather than the implementation "LinkedList".(ø‚†´
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å Œßıÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰ä¶©üÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(œœÕ¼
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬Î­ä
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ìµ–›øÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(•‚Ù›
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Š¹“Àşÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(âÅçæøÿÿÿÿ
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(£˜‚/
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(›êŞÂúÿÿÿÿ
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(½„‚j
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÜÖ—âÿÿÿÿÿ
+Ssquid:S1155">Use isEmpty() to check whether the collection is empty or not.(Ô¿´
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ìøŒ¥
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹»ª‰şÿÿÿÿ
+?squid:S1905"*Remove this unnecessary cast to "Integer".(Ûš«İ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÆŠĞÚúÿÿÿÿ
+†squid:S1319"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(ø‚†´
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡ÙÒÎıÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Şï¾çşÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ò †Øûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤‚á¨øÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬›Ê
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ïîÆùÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(×í¤Ëÿÿÿÿÿ
+‘squid:S1319"wThe type of the "mainNumbers" object should be an interface such as "List" rather than the implementation "LinkedList".(ÛİŠçıÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒ²Šöùÿÿÿÿ
+Csquid:S1125")Remove the literal "false" boolean value.(­šÕÅûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾Ôç˜ÿÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤Í•À
+‹squid:S1319"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(ÛİŠçıÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(İ´ûŒşÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾À±íıÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(õ’¥ûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Åµœ”üÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷ï®œÿÿÿÿÿ
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Éú‡“
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(úôóùÿÿÿÿ
+asquid:S1192"MDefine a constant instead of duplicating this literal "\nlength is:" 3 times.(½„‚j

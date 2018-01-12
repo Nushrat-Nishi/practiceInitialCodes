@@ -1,0 +1,104 @@
+
+ysquid:S1488"dImmediately return this expression instead of assigning it to the temporary variable "resultString".(ÿÿèÊ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(—ò²’ÿÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(´¯š„
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(”—“Ãşÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(èÁå”şÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¢æÅ¥
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨Şü×ıÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Šœº—ùÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(äéğ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.( È¥üÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(è»Û
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(™¥‹Ñøÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(úÑÁÔÿÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÖÅ´Ö
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(€±!
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÔÍ¦Íÿÿÿÿÿ
+Csquid:S1125")Remove the literal "false" boolean value.(¶û™§üÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(øèõº
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(´©àÏ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥â®·
+{squid:S1488"aImmediately return this expression instead of assigning it to the temporary variable "strResult".(‡œÑÃùÿÿÿÿ
+hsquid:S1192"NDefine a constant instead of duplicating this literal "Input String:" 3 times.(´‚³ñÿÿÿÿÿ
+gsquid:S1192"MDefine a constant instead of duplicating this literal "Input Color:" 3 times.(Í¸ûÿÿÿÿ
+=squid:S1125"(Remove the literal "true" boolean value.(ªÆüÆ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ğºøé
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ß‡èØûÿÿÿÿ
+Osquid:S1854"5Remove this useless assignment to local variable "y".(ÏñŠßûÿÿÿÿ
+[squid:S1192"FDefine a constant instead of duplicating this literal "Hello" 4 times.(¥â®·
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(îÏáÑÿÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(şûŸ©üÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Á¹†¤
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(„—ó©
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤¹¥ßûÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Øæ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(×Ë­
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(œË÷Ÿ
+Qsquid:S2589"7Remove this expression which always evaluates to "true"(¶û™§üÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÖÛ‡üÿÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Û»ÒÓ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ğ˜Ÿõøÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Í¸ûÿÿÿÿ
+vsquid:S1488"aImmediately return this expression instead of assigning it to the temporary variable "strResult".(¨ÀÎ‡
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘Ñì¤
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶„¿øùÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡—¦›şÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ğ‹îÂùÿÿÿÿ
+ysquid:S1488"dImmediately return this expression instead of assigning it to the temporary variable "resultString".(œ•ç¨
+[squid:S1192"FDefine a constant instead of duplicating this literal "hippo" 3 times.(¿Á÷
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(´‚³ñÿÿÿÿÿ
+xsquid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(é†ä™ûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(×¾ë¬øÿÿÿÿ
+ssquid:S1488"YImmediately return this expression instead of assigning it to the temporary variable "c".(ğ€›¡ùÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ë˜ºš
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ö‡İ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ß–Ï©
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ú€ÜØ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥ó”Ç
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶öÓÀ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹½ú³ùÿÿÿÿ
